@@ -1,0 +1,6 @@
+C:\Users\ARegin\Desktop\PBIL\PBIL\obj\Debug\PBIL.csprojAssemblyReference.cache
+C:\Users\ARegin\Desktop\PBIL\PBIL\bin\Debug\PBIL.exe.config
+C:\Users\ARegin\Desktop\PBIL\PBIL\bin\Debug\PBIL.exe
+C:\Users\ARegin\Desktop\PBIL\PBIL\bin\Debug\PBIL.pdb
+C:\Users\ARegin\Desktop\PBIL\PBIL\obj\Debug\PBIL.exe
+C:\Users\ARegin\Desktop\PBIL\PBIL\obj\Debug\PBIL.pdb
